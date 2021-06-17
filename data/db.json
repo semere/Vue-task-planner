@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner edited!",
+      "details": "This is the new edited text.",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "A website with awesome title",
+      "details": "This is the most interesting website I came across.",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Build a new website.",
+      "details": "How to build a new website from scratch.",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
